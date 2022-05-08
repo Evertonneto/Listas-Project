@@ -33,7 +33,7 @@ public class listaEncadeada {
 		
 		
 		materia atual = primeiraMateria;
-		//Nota atual2 = primeiraMateria;
+		
 		
 		
 		StringBuilder builder = new StringBuilder("");
@@ -86,14 +86,7 @@ public class listaEncadeada {
 	}
 	
 
-	/*public String getMateriadealuno() {
-		return materiadealuno;
-	}
-
-	public void setMateriadealuno(String materiadealuno) {
-		this.materiadealuno = materiadealuno;
-	}*/
-
+	
 	
 	
 }

@@ -7,9 +7,6 @@ public class listaSequencial {
 	aluno [] estudante = new aluno[60];
 	int tamanho = 0;
 	
-	
-	
-	
 	public boolean estaVazia() {
 		return (tamanho == 0);
 	}
